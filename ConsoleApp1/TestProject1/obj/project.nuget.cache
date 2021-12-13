@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mfcdvjr17M80wWB24xw2fQ3vd609cAwWa/YYpQtLcZRa3TBgqybzGSgK7u5j66s82/51/H4nwni5Lo+85sIKIQ==",
+  "dgSpecHash": "+aIKeuQ9FW99haVP9c+/SuQgCXJz7ioR2Ra/j1ZJOzMpMd52umjEGKJzQ27l7L7TGv0cteW17GrEoQHcEjma0g==",
   "success": true,
-  "projectFilePath": "E:\\JenkinsTest\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "E:\\JenkinsTest\\ConsoleApp1\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tienp\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\tienp\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

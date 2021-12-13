@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "COUfCHvpjrzWuMmTael9qAG5FJviaXcx8ZIW/GoIycXjN7eEDQwqNYlnh+4VX17VsG5TlVGgrgDl2RkzWMdEfg==",
+  "dgSpecHash": "uRyuS4nd22f9M70SB6MEO6i6B/CkgdnoawKsQcGpcNVURvYkt4M5wbcSo/p/yUyp8qmwDrxMlvgErqqd+rOmcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tienp\\Desktop\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "E:\\JenkinsTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

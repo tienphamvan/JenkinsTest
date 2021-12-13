@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tienp\\Desktop\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\JenkinsTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tienp\\Desktop\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\JenkinsTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tienp\\Desktop\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\JenkinsTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\tienp\\Desktop\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "E:\\JenkinsTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\tienp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tienp\\Desktop\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\JenkinsTest\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tienp\\AppData\\Roaming\\NuGet\\NuGet.Config",

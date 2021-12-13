@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\JenkinsTest\\TestProject1\\TestProject1.csproj": {}
+    "E:\\JenkinsTest\\ConsoleApp1\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
     "E:\\JenkinsTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
@@ -58,14 +58,14 @@
         }
       }
     },
-    "E:\\JenkinsTest\\TestProject1\\TestProject1.csproj": {
+    "E:\\JenkinsTest\\ConsoleApp1\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\JenkinsTest\\TestProject1\\TestProject1.csproj",
+        "projectUniqueName": "E:\\JenkinsTest\\ConsoleApp1\\TestProject1\\TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "E:\\JenkinsTest\\TestProject1\\TestProject1.csproj",
+        "projectPath": "E:\\JenkinsTest\\ConsoleApp1\\TestProject1\\TestProject1.csproj",
         "packagesPath": "C:\\Users\\tienp\\.nuget\\packages\\",
-        "outputPath": "E:\\JenkinsTest\\TestProject1\\obj\\",
+        "outputPath": "E:\\JenkinsTest\\ConsoleApp1\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tienp\\AppData\\Roaming\\NuGet\\NuGet.Config",
